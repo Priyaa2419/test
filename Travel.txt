@@ -8,3 +8,5 @@ Banglore
 Noida
 Gurgaon
 Delhi
+Haryana
+Madhya pradesh
